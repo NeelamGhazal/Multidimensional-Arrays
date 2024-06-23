@@ -25,6 +25,3 @@ function sumofMatrix(matrix) {
 }
 diagonalMatrix(multiDim);
 sumofMatrix(multiDim);
-// for (let i = 0; i < multiDim.length; i++) {
-//   console.log(multiDim[i][i]);
-// }
